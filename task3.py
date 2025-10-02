@@ -1,4 +1,4 @@
-#'O' made from '#' symbols
+# 'O' made from '#' symbols
 print("#########\n#\t#\n#\t#\n#\t#\n#########")
-#'H' made from '#' symbols
+# 'H' made from '#' symbols
 print("#\t#\n#\t#\n#########\n#\t#\n#\t#")
